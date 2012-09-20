@@ -1,0 +1,13 @@
+minNumConnectedClients = 2
+
+numMessages = 1000
+
+lowLength = 5000
+hiLength = 6000
+
+thinkTime = 100
+
+totalTestTime = 30000
+
+
+
